@@ -3,11 +3,12 @@ public class MaxSubArrSum1 {
     public static void MaxSubArr(int[] arr){
 //        Variable Declaration
         int maxSum = Integer.MIN_VALUE;
+        int currSum =0;
         for(int i=0; i< arr.length; i++){
             int start = i;
             for(int j=i; j<arr.length; j++){
                 int end = j;
-                int currSum =0;
+                currSum =0;
                 for(int k = start; k<=end; k++){
                     currSum += arr[k];
                 }
