@@ -1,6 +1,5 @@
 package arrays;
 
-import java.rmi.dgc.VMID;
 
 public class SearchInRoatatedSortedArray {
     public static int binarySearch(int[] arr, int target) {
