@@ -11,7 +11,7 @@ public class SearchInsertPosition {
                 return mid;
             }
 
-            if(nums[mid]<=target){
+            if(nums[mid]<target){
                 start = mid+1;
             }else{
                 end = mid-1;
