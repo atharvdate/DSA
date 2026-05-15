@@ -21,7 +21,7 @@
 | Linked Lists        | Learning |
 | Stacks & Queues     | Learning |
 | Trees               | Learning |
-| Dynamic Programming | Upcoming |
+| Dynamic Programming | Learning |
 
 ---
 
