@@ -14,8 +14,8 @@
 
 | Category            | Status   |
 | ------------------- | -------- |
-| Arrays              | Learning |
-| Sorting & Searching | Learning |
+| Arrays              | Practicing |
+| Sorting & Searching | Practicing |
 | Hashing             | Learning |
 | Recursion           | Learning |
 | Linked Lists        | Learning |
