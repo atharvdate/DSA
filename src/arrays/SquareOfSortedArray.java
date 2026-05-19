@@ -1,7 +1,6 @@
 package arrays;
-import java.util.Arrays;
 
-class Solution {
+class SquareOfSortedArray {
     public static int[] sortedSquares(int[] nums) {
         int n = nums.length;
         int left = 0;
