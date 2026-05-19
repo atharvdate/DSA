@@ -1,4 +1,5 @@
 package arrays;
+import java.util.Arrays;
 
 class SquareOfSortedArray {
     public static int[] sortedSquares(int[] nums) {
