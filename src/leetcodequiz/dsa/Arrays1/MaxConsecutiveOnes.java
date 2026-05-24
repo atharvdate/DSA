@@ -1,4 +1,4 @@
-package leetcodequiz.dsa;
+package leetcodequiz.dsa.Arrays1;
 public class MaxConsecutiveOnes {
     public static int maxConsecutive(int[] nums) {
         int n = nums.length;

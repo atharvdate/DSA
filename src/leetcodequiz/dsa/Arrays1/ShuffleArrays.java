@@ -1,4 +1,4 @@
-package leetcodequiz.dsa;
+package leetcodequiz.dsa.Arrays1;
 import java.util.Arrays;
 
 public class ShuffleArrays {
