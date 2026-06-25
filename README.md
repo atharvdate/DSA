@@ -17,7 +17,7 @@
 | Arrays              | Practicing |
 | Sorting & Searching | Practicing |
 | Hashing             | Learning |
-| Recursion           | Learning |
+| Recursion           | Practicing |
 | Linked Lists        | Learning |
 | Stacks & Queues     | Learning |
 | Trees               | Learning |
